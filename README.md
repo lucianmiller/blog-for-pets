@@ -1,6 +1,6 @@
 # Blog For Pets
 
-#### HTML Exercie for Epicodus, 1/27/2021
+#### HTML Exercie for Epicodus, 2/1/2021
 
 #### By Lucain Miller
 
@@ -34,5 +34,5 @@ lucian.miller185@gmail.com
 
 *This software is licensed under the MIT License.*
 
-Copyright (c) 2020 **Lucin Miller**
+Copyright (c) 2021 **Lucin Miller**
 
