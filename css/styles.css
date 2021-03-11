@@ -18,3 +18,11 @@ p.sad {
 .dark-mode p {
   color: white;
 }
+
+.light-mode {
+  background-color: white;
+}
+
+.light-mode p {
+  color: black;
+}
