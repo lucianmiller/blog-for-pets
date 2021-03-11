@@ -10,3 +10,11 @@ p {
 p.sad {
   color: blue;
 }
+
+.dark-mode {
+  background-color: black;
+}
+
+.dark-mode p {
+  color: white;
+}
