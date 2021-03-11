@@ -1,19 +1,19 @@
 # Blog For Pets
 
-#### HTML Exercie for Epicodus, 2/1/2021
+#### HTML Exercise for Epicodus, 3/11/2021
 
 #### By Lucian Miller
 
 ## Description
 
-This is a webpage I designed using the knowledge I gained from the *My First Webpage* project, using my pets as a subject to write about.
+This is a webpage I designed using the knowledge I gained from the *My First Webpage* project, using my pets as a subject to write about. Later, the page was used to experiment with jQuery by creating a 'night mode' and 'day mode'.
 
 ## Setup/Installation Requirements
 
 * Clone this repository.
 * Open File
 * Open Index.html
-* Navagate the webpage in your browser
+* Navigate the webpage in your browser
 
 
 ## Known Bugs
