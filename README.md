@@ -2,7 +2,7 @@
 
 #### HTML Exercie for Epicodus, 2/1/2021
 
-#### By Lucain Miller
+#### By Lucian Miller
 
 ## Description
 
@@ -34,5 +34,5 @@ lucian.miller185@gmail.com
 
 *This software is licensed under the MIT License.*
 
-Copyright (c) 2021 **Lucin Miller**
+Copyright (c) 2021 Lucian Miller
 
